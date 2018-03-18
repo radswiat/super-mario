@@ -1,0 +1,1 @@
+export canvasCfg from './canvas';

@@ -1,0 +1,5 @@
+{
+  "name": "build-npm-scripts",
+  "version": "1.0.0",
+  "description": "NPM endpoints. This is where all npm scripts are pointing to eg. npm run build:aws"
+}

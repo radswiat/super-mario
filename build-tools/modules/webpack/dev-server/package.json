@@ -1,0 +1,5 @@
+{
+  "name": "build-dev-server",
+  "version": "1.0.0",
+  "description": "Webpack dev server"
+}

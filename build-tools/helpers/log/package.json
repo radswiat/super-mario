@@ -1,0 +1,5 @@
+{
+  "name": "build-log",
+  "version": "1.0.0",
+  "description": "Log helper to provide consistent logs in build-tools"
+}
